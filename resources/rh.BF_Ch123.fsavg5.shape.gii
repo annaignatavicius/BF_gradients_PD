@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://gifti.projects.nitrc.org/gifti.dtd">
+<GIFTI Version="1.0"  NumberOfDataArrays="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[UserName]]></Name>
+         <Value><![CDATA[annaignatavicius]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Date]]></Name>
+         <Value><![CDATA[Mon Oct 27 16:32:56 2025]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[gifticlib-version]]></Name>
+         <Value><![CDATA[gifti library version 1.12, 15 June, 2012]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable/>
+   <DataArray Intent="NIFTI_INTENT_NONE"
+              DataType="NIFTI_TYPE_FLOAT32"
+              ArrayIndexingOrder="RowMajorOrder"
+              Dimensionality="1"
+              Dim0="10242"
+              Encoding="GZipBase64Binary"
+              Endian="LittleEndian"
+              ExternalFileName=""
+              ExternalFileOffset="">
+      <MetaData/>
+      <Data>eJzt3TtuwkAQAFCXOQFSOmpqFMmFF44SiR7lGHbjCgWRipq0wEGgSJGSC9g3wFYkoHFcRITfe9XOaootdzWa2SgCADif6XtncOkzAADwv+J8lHzMnqt74Dyc7q+WfXdDAAAA4GrF+Si0ZwEAADyk6r00DGXxlhxjAAAAAAAAAJq8TL6SLE2T9sxmWfoUPhc9vbkAAAAAAADctZ/exddf62JxvqtyumpnAAAAAAAAAAAAQKt65sd2szn8qTD+XoeyKOo4rJb9ev2nmSAAAADcrj3N0idZ</Data>
+   </DataArray>
+</GIFTI>
