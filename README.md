@@ -12,7 +12,7 @@ The analyses also make use of [BrainSpace](https://brainspace.readthedocs.io/en/
 
 Resting-state functional connectivity between basal forebrain voxels and 400 cortical parcels is used to derive a continuous low-dimensional gradient of basal forebrain-cortical functional organisation.
 
-### The analysis:
+### The analysis
 
 - derives a group-level basal forebrain functional gradient using diffusion map embedding
 - aligns participant-level gradients to the group reference using Procrustes alignment
@@ -61,7 +61,7 @@ Calculates cortical geodesic distance from surface-projected basal forebrain see
 
 Outputs include parcel-wise geodesic distances and optional vertex-wise GIFTI maps.
 
-### Resources:
+### Resources
 
 Analysis-specific basal forebrain resources:
 
