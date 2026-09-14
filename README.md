@@ -66,7 +66,7 @@ Outputs include parcel-wise geodesic distances and optional vertex-wise GIFTI ma
 Analysis-specific basal forebrain resources:
 
 - BF_seed_2mm.nii.gz
-- BF_masked_fullB_2mm.dseg.nii.gz
+- BF_masked_fullBF_2mm.dseg.nii.gz
 - lh.BF_Ch123.fsavg5.shape.gii
 - rh.BF_Ch123.fsavg5.shape.gii
 - lh.BF_Ch4.fsavg5.shape.gii
